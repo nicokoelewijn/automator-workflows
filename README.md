@@ -1,5 +1,4 @@
 # automator-workflows
-Right click services
 
 ##Workflows
 - Chmod: let's you change the rights of a directory (and it's contents)
